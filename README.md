@@ -35,7 +35,7 @@ The project is organized with the following structure:
 
 ## Visual Preview
 
-![Notes App](images/notes.png)
+![Simple_Notepad](notes.png)
 
 ## Technologies Used
 
