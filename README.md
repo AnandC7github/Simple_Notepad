@@ -43,9 +43,6 @@ The project is organized with the following structure:
 - CSS
 - JavaScript
 
-## Contributing
-
-Feel free to contribute to the project by creating issues, suggesting improvements, or submitting pull requests.
 
 ## License
 
